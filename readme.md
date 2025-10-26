@@ -60,5 +60,5 @@ git clone https://github.com/scarlettchen618/dataset_for_a2visr.git
 ### note: 
 
 - The IMU measurements are obtianed in the aerial robot's frame in a normalized form. Therefore, they need to be converted back using the gravitational acceleration before being used.
-- The optical flow measurements are obtianed in the aerial robot's frame as well. 
-- The pnp measurements have been already transferred to the ground vehichle's frame. They can also be re-solved using the original compressed image and TF changes.
+- The optical flow measurements are obtained in the aerial robot's frame as well. 
+- The pnp measurements have been already transferred to the ground vehicle's frame. They can also be re-solved using the original compressed image and TF changes.
