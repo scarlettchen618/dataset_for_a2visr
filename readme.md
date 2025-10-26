@@ -9,7 +9,7 @@ It includes measurements from visual detection, UWB ranging, onboard IMU, optica
 ## Download
 ### Download the a2visr pkgs to workspace:
 ```
-git clone https://gitee.com/scarlettchen/a2visr_est.git
+git clone https://github.com/scarlettchen618/a2visr.git
 cd ..
 catkin_make
 ```
@@ -17,7 +17,7 @@ catkin_make
 ### Download the dataset:
 ```
 roscd a2VISR
-git clone https://gitee.com/scarlettchen/dataset_for_a2visr.git
+git clone https://github.com/scarlettchen618/dataset_for_a2visr.git
 ```
 
 ## Instructions
